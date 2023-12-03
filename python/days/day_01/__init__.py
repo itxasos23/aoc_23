@@ -1,1 +1,1 @@
-from .day_01 import day
+from .day import day

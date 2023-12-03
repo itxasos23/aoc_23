@@ -54,6 +54,5 @@ class Day:
 
 def day():
     day = Day()
-    print("day_01:")
-    print(day.part_1())
-    print(day.part_2())
+    print(f"day_01: {day.part_1()}, {day.part_2()}")
+
