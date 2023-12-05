@@ -6,10 +6,10 @@ from days.day_05 import day as day_05
 
 
 def run_aoc():
-    # day_01()
-    # day_02()
-    # day_03()
-    # day_04()
+    day_01()
+    day_02()
+    day_03()
+    day_04()
     day_05()
 
 
