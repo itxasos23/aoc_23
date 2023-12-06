@@ -3,6 +3,7 @@ from days.day_02 import day as day_02
 from days.day_03 import day as day_03
 from days.day_04 import day as day_04
 from days.day_05 import day as day_05
+from days.day_06 import day as day_06
 
 
 def run_aoc():
@@ -11,6 +12,7 @@ def run_aoc():
     day_03()
     day_04()
     day_05()
+    day_06()
 
 
 if __name__ == "__main__":
